@@ -1,6 +1,6 @@
 ### Hi there
 ### I'm Haresh Jhaveri
-## a Software Developer who loves learning new things
+### a Software Developer who loves learning new things
 
 ### Languages I'm Skilled In:
 ```
